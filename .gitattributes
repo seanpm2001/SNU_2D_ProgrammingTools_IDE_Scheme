@@ -32,10 +32,22 @@
 *.css linguist-detectable=true
 *.css linguist-documentation=false
 *.css linguist-language=CSS
-# BitBake source file
-*.bb linguist-detectable=true
-*.bb linguist-documentation=false
-*.bb linguist-language=BitBake
+# Scheme source file
+*.ss linguist-detectable=true
+*.ss linguist-documentation=false
+*.ss linguist-language=Scheme
+*.scm linguist-detectable=true
+*.scm linguist-documentation=false
+*.scm linguist-language=Scheme
+*.sld linguist-detectable=true
+*.sld linguist-documentation=false
+*.sld linguist-language=Scheme
+*.sls linguist-detectable=true
+*.sls linguist-documentation=false
+*.sls linguist-language=Scheme
+*.sps linguist-detectable=true
+*.sps linguist-documentation=false
+*.sps linguist-language=Scheme
 # JSON (JavaScript Object Notation) source file
 *.json linguist-detectable=false
 *.json linguist-documentation=false
@@ -173,7 +185,7 @@
 # End of linguist script
 
 # File info
-# File type: gitattributes file (.gitattributes)
-# File version: 2 (2022, Tuesday, August 30th at 2:34 pm PST)
-# Line count (including blank lines and compiler line): 180
+# File type: gitattributes file (*.gitattributes)
+# File version: 3 (2022, Saturday, November 12th at 3:37 pm PST)
+# Line count (including blank lines and compiler line): 192
 # End of script
